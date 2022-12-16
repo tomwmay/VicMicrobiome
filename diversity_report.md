@@ -23,7 +23,7 @@ The following variables were omitted because they contained too many missing dat
 
 # Species richness
 
-According to our dataset, the [most frequent fungal genera](https://github.com/Royal-Botanic-Gardens-Victoria/VicMicrobiome/blob/main/output/ITS/20_most_frequent_genera.csv) in Victorian soils are saprophytic taxa from the genus *Mortierella*, followed by ectomycorrhizal species in the genera *Russula*, *Cortinarius* and *Inocybe*.
+According to our dataset, the [most frequent fungal genera](https://github.com/Royal-Botanic-Gardens-Victoria/VicMicrobiome/blob/main/output/ITS/20_most_frequent_genera.csv) in Victorian soils are saprotrophic taxa from the genus *Mortierella*, followed by ectomycorrhizal species in the genera *Russula*, *Cortinarius* and *Inocybe*.
 Additionally, the following species were among the [most frequent fungal species](https://github.com/Royal-Botanic-Gardens-Victoria/VicMicrobiome/blob/main/output/ITS/50_most_frequent_OTUs.csv) as well as the [most abundant fungal species](https://github.com/Royal-Botanic-Gardens-Victoria/VicMicrobiome/blob/main/output/ITS/50_most_abundant_OTUs.csv) that we detected:
 
 - *Umbelopsis dimorpha* (endophytic)
