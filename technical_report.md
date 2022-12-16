@@ -2,7 +2,7 @@
 
 The number of reads varied greatly between samples, both for ITS (fungi) and 16S (bacteria). This is likely to induce biases against rare taxa in the samples with fewer reads.
 
-**MultiQC plot of the number of ITS forward reads per sample (fungi)**
+**MultiQC plot of the number of ITS forward reads per sample (fungi)**. Unique reads in blue, duplicate reads in black.
 ![](output/ITS/fastqc_report/read_count_R1.png)
 
 **MultiQC plot of the number of 16S forward reads per sample (bacteria)**
